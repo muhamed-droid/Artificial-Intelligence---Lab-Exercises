@@ -6,6 +6,8 @@ This repository contains artificial intelligence college course labs solutions. 
 Use the command bellow to install module.
 
 pip3 install moduleName
+
+
 Use the command bellow to run scripts.
 
 python scriptName.py
